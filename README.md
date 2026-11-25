@@ -16,7 +16,7 @@ An empty React + Vite project with GitHub Copilot instructions and a place for y
 7. When you finish, fill in `PROMPT_LOG.md` (your use case card and reflection), then commit and push your changes (Source Control panel) and stop the codespace.
 
 ## If you get stuck
-Copy the exact error text, and tell your instructor what you saw.
+Copy the exact error text, and tell me what you saw.
 
 ## Files
 - `src/App.jsx`: the page
